@@ -1,0 +1,12 @@
+name: AsmodeusPlugin
+version: '${project.version}'
+main: lunatic.asmodeusplugin.Main
+api-version: '1.20'
+commands:
+  treasureupgrader:
+    description: Upgrader
+    permission: operator
+  belialshop:
+    permission: operator
+  derickgui:
+    permission: operator
